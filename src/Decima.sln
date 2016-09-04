@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decima.Core", "Decima.Core\Decima.Core.csproj", "{95AB4C9E-DE80-49FA-8919-3FB6D3E55497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decima.Droid", "Decima.Droid\Decima.Droid.csproj", "{CE9A70D0-CDD5-43BF-97E5-294AC567C495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AB4C9E-DE80-49FA-8919-3FB6D3E55497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AB4C9E-DE80-49FA-8919-3FB6D3E55497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AB4C9E-DE80-49FA-8919-3FB6D3E55497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AB4C9E-DE80-49FA-8919-3FB6D3E55497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9A70D0-CDD5-43BF-97E5-294AC567C495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9A70D0-CDD5-43BF-97E5-294AC567C495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9A70D0-CDD5-43BF-97E5-294AC567C495}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CE9A70D0-CDD5-43BF-97E5-294AC567C495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9A70D0-CDD5-43BF-97E5-294AC567C495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9A70D0-CDD5-43BF-97E5-294AC567C495}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
